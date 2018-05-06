@@ -1,5 +1,5 @@
 {
-  "name": "@pozi/meteor-sha",
+  "name": "@pozible/meteor-sha",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
